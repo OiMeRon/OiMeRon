@@ -31,7 +31,6 @@
 
 | 方向 | 具体在做什么 |
 |:--|:--|
-| **Gomnix** | 自建的 Windows 桌面工作台。外壳用 Zig 写，浏览器面板直接接 CEF，另有编辑器、Markdown 知识库、画布三个面板 |
 | **Agent 技能库** | 自建本地技能库，180+ 技能收敛到单一真源，用 junction 软连分发给多个 CLI 客户端 |
 | **知识库工程** | Obsidian vault 的 AI-first 重构：结构化 frontmatter、可遍历的 wikilink 图、面向 Agent 的检索协议 |
 | **AI 应用开发** | 边学边做。TypeScript 写前端和 CLI，Python 写脚本和数据管线 |
