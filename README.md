@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,zig,nix,nodejs,git,bash,linux,blender,godot&theme=dark&perline=9" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=zig,nix,nodejs,bash,linux,blender,godot&theme=dark&perline=7" alt="tech stack" />
 
 </div>
 
