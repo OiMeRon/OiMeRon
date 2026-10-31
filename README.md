@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,zig,nix,nodejs,git,bash,linux,blender,md&theme=dark&perline=10" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,zig,nix,nodejs,git,bash,linux,blender&theme=dark&perline=8" alt="tech stack" />
 
 </div>
 
